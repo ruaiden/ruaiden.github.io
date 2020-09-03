@@ -1,11 +1,11 @@
 # Site settings
-author: enchanting-developer-1887
-title: 
+author: Aiden Marques
+title: Aiden A Marques
 header-img: img/home-bg.png
 email: aiden.marques94@gmail.com
-copyright_name: enchanting-developer-1887
+copyright_name: Aiden Marques
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ruaiden
